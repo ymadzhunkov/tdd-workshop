@@ -24,7 +24,7 @@ Students will learn essential test-first approaches via interactive discussions,
   * TDD in Legacy Code
   * Breaking Dependencies in Legacy Code
 
-#Course Level
+# Course Level
   * Intermediate to Advanced Developers
 
 # Course Prerequisites
