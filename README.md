@@ -5,8 +5,7 @@ Students will learn essential test-first approaches via interactive discussions,
 # Learning Outcomes
 * Understand the thought process and steps involved during a typical test-driven session
 * Discover improved confidence and increase in development speed by writing automated tests first
-* Identify poorly designed code by using our elaborate code smell vocabulary.
-* Incrementally transform complex and difficult code into readable, well-structured, and well-designed code, while keeping it running at all times
+* Incrementally transform complex and difficult code towards readable, well-structured, and well-designed code, while keeping it running at all times
 
 # Course Outline
 * Test Driven Development
@@ -24,3 +23,18 @@ Students will learn essential test-first approaches via interactive discussions,
   * Test Doubles/Fakes - Stubs, Mocks, Spy, Simulators...
   * TDD in Legacy Code
   * Breaking Dependencies in Legacy Code
+
+#Course Level
+  * Intermediate to Advanced Developers
+
+# Course Prerequisites
+* Required basic understanding of:
+  * Object Oriented language (c++, java and etc)
+  * Version control
+* Recommended basic understanding of:
+  * life-cycle of software projects
+* Development Tools
+  * git ~ 2.7.4
+  * cmake version ~ 3.5.1
+  * c++ compiler with c++11 support 
+
