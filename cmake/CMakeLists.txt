@@ -1,0 +1,5 @@
+include(CMakeParseArguments)
+include(unittests.cmake)
+#include(integration_test.cmake)
+#include(coverage.cmake)
+#include(compiler/warnings.cmake)
