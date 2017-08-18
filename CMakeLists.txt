@@ -7,4 +7,5 @@ add_subdirectory(doctest)
 set(CMAKE_CXX_STANDARD 11)
 add_subdirectory(cmake)
 add_subdirectory(exersice1)
+add_subdirectory(exersice1.2)
 
