@@ -9,4 +9,5 @@ add_subdirectory(cmake)
 add_subdirectory(exersice1)
 add_subdirectory(exersice1.2)
 add_subdirectory(exersice2)
+add_subdirectory(exersice3)
 
