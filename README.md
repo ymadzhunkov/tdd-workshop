@@ -38,3 +38,12 @@ Students will learn essential test-first approaches via interactive discussions,
   * cmake version ~ 3.5.1
   * c++ compiler with c++11 support 
 
+# TDD lectures
+1. [Test Driven Development: Сътворение на качествен код - Йордан Маджунков](https://www.youtube.com/watch?v=YXCJNeVqC1c)
+2. [Unit Test-ове, TDD и всичко останало - Стефан Кънев](https://www.youtube.com/watch?v=ToyPKRiQCQk)
+3. [Understanding Test Driven Development - Roy Osherove](https://www.youtube.com/watch?v=q5Xd1tmIgec)
+4. [Unit Testing and TDD: Why you should care and how to make it happen - Roy Osherove](https://www.youtube.com/watch?v=3_UX8Kqb3aU)
+
+# Programing 
+1. [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c)
+
