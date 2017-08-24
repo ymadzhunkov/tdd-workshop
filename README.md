@@ -43,7 +43,11 @@ Students will learn essential test-first approaches via interactive discussions,
 2. [Unit Test-ове, TDD и всичко останало - Стефан Кънев](https://www.youtube.com/watch?v=ToyPKRiQCQk)
 3. [Understanding Test Driven Development - Roy Osherove](https://www.youtube.com/watch?v=q5Xd1tmIgec)
 4. [Unit Testing and TDD: Why you should care and how to make it happen - Roy Osherove](https://www.youtube.com/watch?v=3_UX8Kqb3aU)
+5. [The Three Laws of TDD - Uncle Bob](https://www.youtube.com/watch?v=AoIfc5NwRks)
+6. [CppCon 2015: Matt Hargett “Advanced Unit Testing in C & C++”] (https://www.youtube.com/watch?v=Wmy6g-aVgZI)
 
 # Programing 
 1. [Programming is terrible - Lessons learned from a life wasted](https://www.youtube.com/watch?v=csyL9EC0S0c)
+2. [Fast Test, Slow Test - Gary Bernhardt](https://www.youtube.com/watch?v=RAxiiRPHS9k)
+
 
