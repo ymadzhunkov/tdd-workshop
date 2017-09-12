@@ -38,6 +38,9 @@ Students will learn essential test-first approaches via interactive discussions,
   * cmake version ~ 3.5.1
   * c++ compiler with c++11 support 
 
+# Slides
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/ymadzhunkov/tdd-workshop/master?grs=github&t=white)
+
 # TDD lectures
 1. [Test Driven Development: Сътворение на качествен код - Йордан Маджунков](https://www.youtube.com/watch?v=YXCJNeVqC1c)
 2. [Unit Test-ове, TDD и всичко останало - Стефан Кънев](https://www.youtube.com/watch?v=ToyPKRiQCQk)
